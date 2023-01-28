@@ -1,0 +1,17 @@
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\bin\Debug\net6.0\Revas.DataAccess.deps.json
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\bin\Debug\net6.0\Revas.DataAccess.runtimeconfig.json
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\bin\Debug\net6.0\Revas.DataAccess.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\bin\Debug\net6.0\Revas.DataAccess.pdb
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\bin\Debug\net6.0\Revas.Core.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\bin\Debug\net6.0\Revas.Core.pdb
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.csproj.CopyComplete
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\refint\Revas.DataAccess.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.pdb
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\Revas.DataAccess.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.DataAccess\obj\Debug\net6.0\ref\Revas.DataAccess.dll

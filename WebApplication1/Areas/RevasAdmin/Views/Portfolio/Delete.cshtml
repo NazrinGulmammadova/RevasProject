@@ -1,0 +1,16 @@
+﻿@model Portfolio
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="col-6 mt-3">
+	<p></p>
+	<p>Image: <img src="~/assets/img/portfolio/@Model.Image" height="100px" /><br /><br /></p>
+	<div class="mt-3">
+		<form method="post" class="formdelete" enctype="multipart/form-data">
+			<button class="btn btn-danger deleteButton">Delete</button>
+		</form>
+	</div>
+	<a class="btn btn-info" asp-action="Index">Go Back!</a>
+</div>
+

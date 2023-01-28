@@ -1,0 +1,14 @@
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\bin\Debug\net6.0\Revas.Core.deps.json
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\bin\Debug\net6.0\Revas.Core.runtimeconfig.json
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\bin\Debug\net6.0\Revas.Core.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\bin\Debug\net6.0\Revas.Core.pdb
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\refint\Revas.Core.dll
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.pdb
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\Revas.Core.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\RevasPr\Revas.Core\obj\Debug\net6.0\ref\Revas.Core.dll

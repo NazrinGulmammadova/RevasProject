@@ -1,0 +1,29 @@
+﻿@using WebApplication1.Areas.RevasAdmin.ViewModels;
+@model PortfolioVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+<h1>Update</h1>
+<div class="col-6">
+	<div class="card">
+		<div class="card-body">
+			<h4 class="card-title">Update Portfolio</h4>
+			<form class="forms-sample formupdate" method="post" enctype="multipart/form-data">
+
+				<div class="form-group">
+					<label>Image</label>
+					
+					<input asp-for="Image" type="file" class="form-control" placeholder="Image">
+					<span class="text-danger" asp-validation-for="Image"></span>
+				</div>
+
+				<button class="btn btn-primary mr-2 updatebtn">Submit</button>
+				<a asp-action="Index" class="btn btn-light">Cancel</a>
+
+
+			</form>
+		</div>
+	</div>
+</div>
+

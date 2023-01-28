@@ -1,0 +1,23 @@
+﻿@model PortfolioVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="card col-5">
+	<div class="card-body">
+		<h4 class="card-title">Create Portfolio</h4>
+		<form class="forms-sample" method="post" enctype="multipart/form-data">
+
+			<div class="form-group">
+				<label>Image</label>
+				<input asp-for="Image" class="form-control" placeholder="Image" accept="image/*">
+				<span class="text-danger" asp-validation-for="Image"></span>
+			</div>
+
+			<button asp-action="Create" class="btn btn-primary mr-2">Submit</button>
+			<button asp-action="Index" class="btn btn-light">Cancel</button>
+
+		</form>
+	</div>
+</div>
+
